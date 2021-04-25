@@ -1,0 +1,73 @@
+body {
+    color: white;
+    background: black;
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+}
+p {
+  color: white;
+}
+h1{
+    color: white;
+}
+#h2, #piedBlog{
+    color: white;
+}
+
+.titreBillet {
+    margin-bottom : 0px;
+}
+
+#global{
+    min-height: 100%;  /* Voir commentaire sur html et body plus haut */
+    background: #464747;
+    width: 70%;
+    margin: auto; /* Permet de centrer la div */
+    text-align: justify;
+    padding: 5px 20px;
+}
+
+#contenu {
+    margin-bottom : 30px;
+}
+
+ #piedBlog {
+    text-align: center;
+}
+
+#titreReponses {
+    font-size : 100%;
+}
+
+#txtCommentaire {
+    width: 50%;
+}
+#time{
+    color: blanchedalmond;
+}
+
+#card{
+    margin: 5%;
+    border: solid;
+    border-width: 0,9em;
+    border-color: blanchedalmond;
+}
+
+#ticket{
+    margin: 2%;
+}
+#h2{
+    text-align: center;
+}
+
+
+#txtCommentaire{
+    width: 100%;
+}
+
+#titrelabel, #commentairelabel{
+    color: white;
+}
+#modifieretat{
+    color: white;
+
+}
